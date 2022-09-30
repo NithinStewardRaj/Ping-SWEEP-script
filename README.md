@@ -17,7 +17,10 @@ in this simple ping sweep script i have done
 
 explaination of the code 
 {
-1st line is an common written for god sake ;)
+1st line
+#! 
+
+shebang is written for interpreter to know what it is 
 
 we are including an if statement 
 if statement is like "if this condition is satisfied do this or do other thing"
